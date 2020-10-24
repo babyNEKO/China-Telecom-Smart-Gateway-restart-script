@@ -6,4 +6,5 @@
 
 > 不定期维护 有时间就上来看看
 >> 2020年8月7日
+>> Windows 平台
 ## mr_bug@foxmail.com
